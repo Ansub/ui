@@ -1,5 +1,3 @@
-'use client'
-
 import AnimatedBadge from '@/components/AnimatedBadge'
 import { Footer } from '@/components/Footer'
 import { Header } from '@/components/Header'
